@@ -1,0 +1,1 @@
+insert into pessoa(nome,idade) values ('Caio Ferreira', 27)
